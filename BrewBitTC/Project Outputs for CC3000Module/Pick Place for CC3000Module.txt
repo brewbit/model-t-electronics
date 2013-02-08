@@ -1,0 +1,13 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+L2         0402              3215.552mil   3716.535mil   3215.551mil   3716.535mil   3215.552mil    3696.85mil  T         90.00 Inductor       
+L1         0402              3344.488mil   3716.535mil   3344.488mil   3716.535mil   3344.488mil    3696.85mil  T         90.00 Inductor       
+C14        0402              3280.511mil    3736.22mil   3280.512mil    3736.22mil   3300.196mil    3736.22mil  T        180.00 Cap            
+ANT1       2500AT44M0400     3565.945mil   3756.891mil   3430.118mil    3756.89mil   3430.119mil   3756.891mil  T        360.00 ANT-SMT-2      
+U2         CC3000            3240.315mil   3064.567mil       3010mil       3350mil       3010mil   3277.166mil  T          0.00 CC3000         
+P6         U.FL-R-SMT-1      2872.048mil   3723.918mil   2872.047mil   3693.898mil   2793.308mil   3753.938mil  T        360.00 U.FL           
+C18        0402              3569.882mil   2849.409mil   3569.882mil   2849.409mil   3589.568mil   2849.409mil  T        180.00 Cap            
+C17        0402              3569.882mil    3039.37mil   3569.882mil    3039.37mil   3589.568mil    3039.37mil  T        180.00 Cap            
+C16        0402              3102.363mil   3602.362mil   3102.362mil   3602.362mil   3082.678mil   3602.362mil  T        360.00 Cap            
+C15        0402              3122.048mil   3622.047mil   3122.047mil   3622.047mil   3122.048mil   3602.362mil  T         90.00 Cap            
+

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [CC3000Module.PcbDoc]
+   Generated File[CC3000Module.TXT]
+   Generated File[CC3000Module.LDP]
+   Generated File[CC3000Module.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:34:33 AM On 2/8/2013
