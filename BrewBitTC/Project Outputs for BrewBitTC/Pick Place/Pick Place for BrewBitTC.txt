@@ -1,0 +1,41 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Y1         HC49SD_XTAL       8483.031mil      11240mil       8485mil      11240mil       8485mil  11427.008mil  T        270.00 XTAL           
+U4         369C              8821.339mil  12090.039mil       8680mil      12180mil       8680mil      12180mil  T        180.00 NCP1117        
+U3         ISM-WIFI         10135.827mil   12366.24mil      10480mil      12640mil      10480mil      12640mil  T        270.00 ISM43xx        
+U1         LQFP64            9101.378mil  11427.362mil       8875mil      11575mil       8875mil      11575mil  T          0.00 STM32F205      
+S1         FSM4JSMA              9465mil      12080mil       9465mil      12080mil   9553.582mil  12259.134mil  T        360.00 SW-PB          
+R7         0603                 10135mil      11995mil      10135mil      11995mil      10135mil  11965.472mil  T         90.00 Res2           
+R6         0603                  9650mil      12480mil       9650mil      12480mil   9679.528mil      12480mil  T        180.00 Res2           
+R5         0603                 10365mil      11585mil      10365mil      11585mil      10365mil  11614.528mil  T        270.00 Res2           
+R4         0603                  8760mil      11295mil       8760mil      11295mil   8730.472mil      11295mil  T          0.00 Res2           
+R2         0603                  9880mil      11435mil       9880mil      11435mil   9850.472mil      11435mil  T        360.00 Res2           
+R1         0603                  9870mil      11635mil       9870mil      11635mil   9840.472mil      11635mil  T        360.00 Res2           
+P14        HDR1X4               10000mil      11585mil      10000mil      11735mil      10000mil      11735mil  T        270.00 BOOT_SEL       
+P9         HDR2X16               9720mil      10120mil      10470mil      10070mil      10470mil      10070mil  B        180.00 HAOYU YX32B    
+P8         HDR2X20               9515mil  10559.606mil      10465mil  10509.606mil      10465mil  10509.606mil  B         90.00 SainSmart 3.2" LCD
+P5         HDR1X3               10230mil      11635mil      10230mil      11535mil      10230mil      11535mil  T         90.00 OW2            
+P4         HDR1X3               10490mil      11635mil      10490mil      11535mil      10490mil      11535mil  T         90.00 OW1            
+P3         HDR2X4               10425mil      11125mil      10475mil      10975mil      10475mil      10975mil  T         90.00 900 MHz        
+P2         HDR1X4                8365mil      12090mil       8365mil      11940mil       8365mil      11940mil  T         90.00 PWR_BRD        
+P1         HDR2X10               8805mil      12610mil       9255mil      12660mil       9255mil      12660mil  T        180.00 JTAG           
+C24        0805                  8795mil      12275mil       8795mil      12275mil   8757.598mil      12275mil  T        360.00 Cap            
+C23        0805                  8560mil      12080mil       8560mil      12080mil       8560mil  12117.402mil  T        270.00 Cap            
+C22        0603                  9650mil      12590mil       9650mil      12590mil   9620.472mil      12590mil  T        360.00 Cap            
+C21        0603                 10450mil      12710mil      10450mil      12710mil  10479.528mil      12710mil  T        180.00 Cap            
+C20        0603                  9650mil      12535mil       9650mil      12535mil   9620.472mil      12535mil  T        360.00 Cap            
+C19        0603                 10450mil      12765mil      10450mil      12765mil  10479.528mil      12765mil  T        180.00 Cap            
+C13        0402                  8485mil      11585mil       8485mil      11585mil       8485mil  11604.686mil  T        270.00 Cap            
+C12        0402                  8480mil  10895.001mil       8480mil      10895mil       8480mil  10875.316mil  T         90.00 Cap            
+C11        0603                  9555mil      11795mil       9555mil      11795mil       9555mil  11765.472mil  T         90.00 Cap            
+C10        0603                  9210mil      11110mil       9210mil      11110mil       9210mil  11080.472mil  T         90.00 Cap            
+C9         0603                  9420mil      11535mil       9420mil      11535mil   9449.528mil      11535mil  T        180.00 Cap            
+C8         0603                  8945mil      11745mil       8945mil      11745mil       8945mil  11774.528mil  T        270.00 Cap            
+C7         0603                  9420mil      11595mil       9420mil      11595mil   9449.528mil      11595mil  T        180.00 Cap            
+C6         0603                  9270mil      11110mil       9270mil      11110mil       9270mil  11080.472mil  T         90.00 Cap            
+C5         0603                  8990mil      11110mil       8990mil      11110mil       8990mil  11080.472mil  T         90.00 Cap            
+C4         0603                  8760mil      11350mil       8760mil      11350mil   8730.472mil      11350mil  T        360.00 Cap            
+C3         0603                  8800mil      11605mil       8800mil      11605mil       8800mil  11634.528mil  T        270.00 Cap            
+C2         0603                  8745mil      11605mil       8745mil      11605mil       8745mil  11634.528mil  T        270.00 Cap            
+C1         0805                  8910mil      11105mil       8910mil      11105mil       8910mil  11067.598mil  T         90.00 Cap            
+

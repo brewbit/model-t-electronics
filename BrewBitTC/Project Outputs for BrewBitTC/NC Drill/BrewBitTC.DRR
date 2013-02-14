@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: BrewBitTC.PcbDoc   2/13/2013  8:56:11 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BrewBitTC.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          118              22.79 Inch (578.85 mm)
+T2        35.43mil (0.89992mm)     Round          114              15.21 Inch (386.43 mm)
+---------------------------------------------------------------------------
+Totals                                            232              38.00 Inch (965.28 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
