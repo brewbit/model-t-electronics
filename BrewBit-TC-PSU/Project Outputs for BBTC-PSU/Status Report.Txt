@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [BBTC-PSU.PcbDoc]
+   Generated File[Pick Place for BBTC-PSU.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:29:16 AM On 2/15/2013
