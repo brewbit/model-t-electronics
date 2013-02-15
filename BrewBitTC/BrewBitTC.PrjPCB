@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
-OutputPath=Project Outputs for BrewBitTC
+OutputPath=
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -160,6 +160,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for BrewBitTC\BrewBitTC.BOM
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for BrewBitTC\BrewBitTC.CSV
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for BrewBitTC\Design Rule Check - BrewBitTC.html
 DItemRevisionGUID=
 
@@ -471,6 +479,8 @@ OutputName2=Simple BOM
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType3=SinglePinNetReporter
 OutputName3=Report Single Pin Nets
 OutputDocumentPath3=
@@ -485,13 +495,13 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration4_Name1=Filter
 Configuration4_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration4_Name2=General
-Configuration4_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1439|FormHeight=772|SupplierProdQty=1000|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=0|FormWidth=1439|FormHeight=772|SupplierProdQty=1000|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration4_Name3=GroupOrder
-Configuration4_Item3=Supplier Part Number 1=True|Comment=True|Footprint=True
+Configuration4_Item3=Value=True|Supplier Part Number 1=True
 Configuration4_Name4=SortOrder
 Configuration4_Item4=Designator=Up|Comment=Up|Footprint=Up
 Configuration4_Name5=VisibleOrder
-Configuration4_Item5=Comment=76|Description=232|Designator=220|Footprint=105|LibRef=124|Quantity=71|Supplier Part Number 1=152|Supplier Unit Price 1=129|Supplier Subtotal 1=137
+Configuration4_Item5=Quantity=49|Supplier Part Number 1=104|Description=158
 OutputType5=ComponentCrossReference
 OutputName5=Component Cross Reference Report
 OutputDocumentPath5=

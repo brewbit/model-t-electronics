@@ -1,0 +1,7 @@
+Added Component: Designator=P1(HDR1X5)
+Added Pin To Net: NetName=R1_CTL Pin=P1-1
+Added Pin To Net: NetName=RTN Pin=P1-2
+Added Pin To Net: NetName=5V Pin=P1-3
+Added Pin To Net: NetName=RTN Pin=P1-4
+Added Pin To Net: NetName=R2_CTL Pin=P1-5
+Added Member To Class: ClassName=BBTC-PSU Member=Component P1 Header 5
