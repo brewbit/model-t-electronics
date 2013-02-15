@@ -1,6 +1,9 @@
 Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
 
-P1         HDR1X4           44238.898mil      18135mil  44388.898mil      18135mil  44388.898mil      18135mil  T        180.00 Header 4       
+P3         B3P-VH(LF)(SN)       43535mil      18270mil      43535mil      18270mil      43535mil  18114.094mil  T         90.00 AC_OUT_2       
+P2         B3P-VH(LF)(SN)       42805mil      18270mil      42805mil      18270mil      42805mil  18114.094mil  T         90.00 AC_OUT_1       
+P1         B3P-VH(LF)(SN)       42185mil      18270mil      42185mil      18270mil      42185mil  18114.094mil  T         90.00 AC_IN          
+P4         HDR1X4           44238.898mil      18135mil  44388.898mil      18135mil  44388.898mil      18135mil  T        180.00 Header 4       
 U2         SOT23-6_N            43825mil      17570mil      43825mil      17570mil  43777.756mil  17532.598mil  B        360.00 NUD3124        
 K2         PB134005             43340mil  17728.032mil      43340mil      17605mil   43143.15mil  17851.063mil  T         90.00 Relay-SPST     
 K1         PB134005             42605mil  17728.032mil      42605mil      17605mil   42408.15mil  17851.063mil  T         90.00 Relay-SPST     
@@ -11,7 +14,7 @@ R9         0805                 44350mil      18570mil      44350mil      18570m
 R8         0805                 44180mil      19630mil      44180mil      19630mil  44217.402mil      19630mil  B        180.00 100            
 R7         0603                 42955mil      18970mil      42955mil      18970mil      42955mil  18940.472mil  B         90.00 6.2K           
 R6         0603                 42605mil      19125mil      42605mil      19125mil  42634.528mil      19125mil  B        180.00 9.76K          
-R5         0603                 42770mil      19205mil      42770mil      19205mil  42799.528mil      19205mil  B        180.00 14.7K          
+R5         0603                 42770mil      19195mil      42770mil      19195mil  42799.528mil      19195mil  B        180.00 14.7K          
 R4         1206                 42985mil      19580mil      42985mil      19580mil  43042.086mil      19580mil  B        180.00 300            
 R3         0805                 42700mil      19540mil      42700mil      19540mil      42700mil  19577.402mil  B        270.00 470K           
 R2         1206                 41890mil      19045mil      41890mil      19045mil  41832.914mil      19045mil  B        360.00 10K            
