@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: BBTC-PSU.PcbDoc   2/15/2013  11:29:15 AM
+NCDrill File Report For: BBTC-PSU.PcbDoc   2/15/2013  11:58:18 AM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,15 +7,15 @@ ASCII RoundHoles File : BBTC-PSU.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        15mil (0.381mm)          Round          6                0.61 Inch (15.54 mm)
+T1        12mil (0.3048mm)         Round          6                0.61 Inch (15.54 mm)
 T2        25mil (0.635mm)          Round          7                0.90 Inch (22.86 mm)
 T3        27.56mil (0.70002mm)     Round          4                0.63 Inch (16.02 mm)
-T4        33.46mil (0.84988mm)     Round          2                0.50 Inch (12.70 mm)
-T5        35.43mil (0.89992mm)     Round          25               9.44 Inch (239.84 mm)
-T6        47.24mil (1.1999mm)      Round          8                1.98 Inch (50.36 mm)
+T4        35.43mil (0.89992mm)     Round          19               7.94 Inch (201.60 mm)
+T5        39.37mil (1mm)           Round          4                1.03 Inch (26.17 mm)
+T6        47.24mil (1.1999mm)      Round          12               6.18 Inch (156.95 mm)
 T7        55.12mil (1.40005mm)     Round          13               3.48 Inch (88.28 mm)
 T8        100mil (2.54mm)          Round          4                8.98 Inch (228.09 mm)
 ---------------------------------------------------------------------------
-Totals                                            69               26.52 Inch (673.69 mm)
+Totals                                            69               29.74 Inch (755.52 mm)
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

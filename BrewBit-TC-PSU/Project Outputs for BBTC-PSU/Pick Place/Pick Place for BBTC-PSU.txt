@@ -2,11 +2,11 @@ Designator Footprint               Mid X         Mid Y         Ref X         Ref
 
 P1         HDR1X4           44238.898mil      18135mil  44388.898mil      18135mil  44388.898mil      18135mil  T        180.00 Header 4       
 U2         SOT23-6_N            43825mil      17570mil      43825mil      17570mil  43777.756mil  17532.598mil  B        360.00 NUD3124        
-K2         PB134005             43340mil  17728.032mil      43340mil      17605mil   43143.15mil  17851.064mil  T         90.00 Relay-SPST     
-K1         PB134005             42605mil  17728.032mil      42605mil      17605mil   42408.15mil  17851.064mil  T         90.00 Relay-SPST     
+K2         PB134005             43340mil  17728.032mil      43340mil      17605mil   43143.15mil  17851.063mil  T         90.00 Relay-SPST     
+K1         PB134005             42605mil  17728.032mil      42605mil      17605mil   42408.15mil  17851.063mil  T         90.00 Relay-SPST     
 U1         LNK6XX               42865mil      19275mil      42715mil      19125mil      42715mil      19125mil  T         90.00 LNK616PG       
 T1         CWS-T1-RDR158    43690.118mil  19243.031mil      43385mil      19495mil      43385mil      19495mil  T        360.00 CWS-T1-RDR158  
-RF1        AXIAL-0.5            41635mil      18115mil      41635mil      18115mil      41885mil      18115mil  T        180.00 10             
+RF1        Res_Wide             41780mil      17905mil      41780mil      17905mil  42173.701mil      17905mil  T        180.00 10             
 R9         0805                 44350mil      18570mil      44350mil      18570mil  44387.402mil      18570mil  B        180.00 1.2K           
 R8         0805                 44180mil      19630mil      44180mil      19630mil  44217.402mil      19630mil  B        180.00 100            
 R7         0603                 42955mil      18970mil      42955mil      18970mil      42955mil  18940.472mil  B         90.00 6.2K           
