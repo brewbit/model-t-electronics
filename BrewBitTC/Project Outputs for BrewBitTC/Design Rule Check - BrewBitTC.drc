@@ -1,136 +1,138 @@
 Protel Design System Design Rule Check
-PCB File : C:\dev\BrewBit\ee\BrewBitTC\BrewBitTC.PcbDoc
-Date     : 2/13/2013
-Time     : 8:36:58 PM
+PCB File : C:\dev\BrewBit-ee\BrewBitTC\BrewBitTC.PcbDoc
+Date     : 2/21/2013
+Time     : 1:22:12 AM
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
-
-Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-   Violation between Text "19" (8295mil,12680mil)  Top Overlay and 
-                     Track (8305mil,12510mil)(8305mil,12710mil)  Top Overlay
-   Violation between Text "20" (8295mil,12580mil)  Top Overlay and 
-                     Track (8305mil,12510mil)(8305mil,12710mil)  Top Overlay
-   Violation between Text "2" (9355mil,12580mil)  Top Overlay and 
-                     Track (9305mil,12510mil)(9305mil,12710mil)  Top Overlay
-   Violation between Text "1" (10495mil,10895mil)  Top Overlay and 
-                     Track (10325mil,10925mil)(10525mil,10925mil)  Top Overlay
-   Violation between Text "2" (10395mil,10875mil)  Top Overlay and 
-                     Track (10325mil,10925mil)(10525mil,10925mil)  Top Overlay
-   Violation between Text "8" (10395mil,11335mil)  Top Overlay and 
-                     Track (10325mil,11325mil)(10525mil,11325mil)  Top Overlay
-   Violation between Text "7" (10495mil,11335mil)  Top Overlay and 
-                     Track (10325mil,11325mil)(10525mil,11325mil)  Top Overlay
-   Violation between Text "2" (10570mil,10150mil)  Bottom Overlay and 
-                     Track (10520mil,10020mil)(10520mil,10220mil)  Bottom Overlay
-   Violation between Text "32" (8910mil,10150mil)  Bottom Overlay and 
-                     Track (8920mil,10020mil)(8920mil,10220mil)  Bottom Overlay
-   Violation between Text "31" (8910mil,10050mil)  Bottom Overlay and 
-                     Track (8920mil,10020mil)(8920mil,10220mil)  Bottom Overlay
-   Violation between Text "C20" (9420mil,12515mil)  Top Overlay and 
-                     Text "C22" (9420mil,12595mil)  Top Overlay
-   Violation between Text "C19" (10235mil,12780mil)  Top Overlay and 
-                     Text "C21" (10240mil,12700mil)  Top Overlay
-   Violation between Text "C2" (8705mil,11770mil)  Top Overlay and 
-                     Text "C3" (8780mil,11770mil)  Top Overlay
-Rule Violations :13
-
-Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Via (8551mil,11484mil) Top Layer to Bottom Layer and 
-                     Pad Y1-1(8485mil,11427.008mil)  Top Layer
-   Violation between Via (9420mil,11567mil) Top Layer to Bottom Layer and 
-                     Pad C9-1(9449.528mil,11535mil)  Top Layer
-   Violation between Via (9420mil,11567mil) Top Layer to Bottom Layer and 
-                     Pad C9-2(9390.472mil,11535mil)  Top Layer
-   Violation between Via (9420mil,11567mil) Top Layer to Bottom Layer and 
-                     Pad C7-1(9449.528mil,11595mil)  Top Layer
-   Violation between Via (9420mil,11567mil) Top Layer to Bottom Layer and 
-                     Pad C7-2(9390.472mil,11595mil)  Top Layer
-   Violation between Via (8970mil,11040mil) Top Layer to Bottom Layer and 
-                     Pad C5-1(8990mil,11080.472mil)  Top Layer
-   Violation between Via (9302.038mil,11044.038mil) Top Layer to Bottom Layer and 
-                     Pad C6-1(9270mil,11080.472mil)  Top Layer
-   Violation between Via (8998.11mil,11613mil) Top Layer to Bottom Layer and 
-                     Pad U1-63(8973.426mil,11653.74mil)  Top Layer
-   Violation between Via (9154.276mil,11696mil) Top Layer to Bottom Layer and 
-                     Pad U1-55(9130.906mil,11653.74mil)  Top Layer
-   Violation between Via (9154.276mil,11696mil) Top Layer to Bottom Layer and 
-                     Pad U1-53(9170.276mil,11653.74mil)  Top Layer
-   Violation between Via (9217mil,11613mil) Top Layer to Bottom Layer and 
-                     Pad U1-52(9189.96mil,11653.74mil)  Top Layer
-   Violation between Via (9275.5mil,11532mil) Top Layer to Bottom Layer and 
-                     Pad U1-46(9327.756mil,11535.63mil)  Top Layer
-   Violation between Via (9286mil,11393mil) Top Layer to Bottom Layer and 
-                     Pad U1-40(9327.756mil,11417.52mil)  Top Layer
-   Violation between Via (9193.646mil,11251mil) Top Layer to Bottom Layer and 
-                     Pad U1-30(9209.646mil,11200.984mil)  Top Layer
-   Violation between Via (9193.646mil,11251mil) Top Layer to Bottom Layer and 
-                     Pad U1-29(9189.96mil,11200.984mil)  Top Layer
-   Violation between Via (9150.59mil,11160mil) Top Layer to Bottom Layer and 
-                     Pad U1-28(9170.276mil,11200.984mil)  Top Layer
-   Violation between Via (9139.276mil,11252mil) Top Layer to Bottom Layer and 
-                     Pad U1-27(9150.59mil,11200.984mil)  Top Layer
-   Violation between Via (9150.59mil,11160mil) Top Layer to Bottom Layer and 
-                     Pad U1-26(9130.906mil,11200.984mil)  Top Layer
-   Violation between Via (9139.276mil,11252mil) Top Layer to Bottom Layer and 
-                     Pad U1-26(9130.906mil,11200.984mil)  Top Layer
-   Violation between Via (8915.558mil,11417.558mil) Top Layer to Bottom Layer and 
-                     Pad U1-10(8875mil,11397.836mil)  Top Layer
-   Violation between Via (8833mil,11433mil) Top Layer to Bottom Layer and 
-                     Pad U1-9(8875mil,11417.52mil)  Top Layer
-   Violation between Via (8915.558mil,11417.558mil) Top Layer to Bottom Layer and 
-                     Pad U1-8(8875mil,11437.206mil)  Top Layer
-   Violation between Via (8917mil,11481mil) Top Layer to Bottom Layer and 
-                     Pad U1-7(8875mil,11456.89mil)  Top Layer
-   Violation between Via (8833mil,11433mil) Top Layer to Bottom Layer and 
-                     Pad U1-7(8875mil,11456.89mil)  Top Layer
-   Violation between Via (8917mil,11481mil) Top Layer to Bottom Layer and 
-                     Pad U1-5(8875mil,11496.26mil)  Top Layer
-   Violation between Via (10098.826mil,12603mil) Top Layer to Bottom Layer and 
-                     Pad U3-8(10078.464mil,12640mil)  Top Layer
-   Violation between Via (9815mil,11400mil) Top Layer to Bottom Layer and 
-                     Pad R2-1(9850.472mil,11435mil)  Top Layer
-   Violation between Via (9342mil,10656mil) Top Layer to Bottom Layer and 
-                     Pad P8-32(9365mil,10609.606mil)  Multi-Layer
-   Violation between Via (9735mil,10212mil) Top Layer to Bottom Layer and 
-                     Pad P9-16(9770mil,10170mil)  Multi-Layer
-   Violation between Via (9829mil,11369mil) Top Layer to Bottom Layer and 
-                     Via (9815mil,11400mil) Top Layer to Bottom Layer
-   Violation between Via (9139.276mil,11252mil) Top Layer to Bottom Layer and 
-                     Via (9111.22mil,11268mil) Top Layer to Bottom Layer
-   Violation between Via (10309.776mil,12699.224mil) Top Layer to Bottom Layer and 
-                     Via (10339.914mil,12714.086mil) Top Layer to Bottom Layer
-   Violation between Via (9056mil,11776mil) Top Layer to Bottom Layer and 
-                     Via (9089.598mil,11779.402mil) Top Layer to Bottom Layer
-Rule Violations :33
-
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=8mil) (Max=10mil) (Preferred=10mil) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Via (8700mil,12305mil) Top Layer to Bottom Layer and 
+                     Pad C24-1(8737.913mil,12275mil)  Top Layer
+   Violation between Via (9815mil,11400mil) Top Layer to Bottom Layer and 
+                     Pad R2-1(9850.472mil,11435mil)  Top Layer
+   Violation between Via (10098.826mil,12603mil) Top Layer to Bottom Layer and 
+                     Pad U3-8(10078.464mil,12640mil)  Top Layer
+   Violation between Via (8917mil,11481mil) Top Layer to Bottom Layer and 
+                     Pad U1-5(8875mil,11496.26mil)  Top Layer
+   Violation between Via (8917mil,11481mil) Top Layer to Bottom Layer and 
+                     Pad U1-7(8875mil,11456.89mil)  Top Layer
+   Violation between Via (8833mil,11433mil) Top Layer to Bottom Layer and 
+                     Pad U1-7(8875mil,11456.89mil)  Top Layer
+   Violation between Via (8915.558mil,11417.558mil) Top Layer to Bottom Layer and 
+                     Pad U1-8(8875mil,11437.206mil)  Top Layer
+   Violation between Via (8833mil,11433mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(8875mil,11417.52mil)  Top Layer
+   Violation between Via (8915.558mil,11417.558mil) Top Layer to Bottom Layer and 
+                     Pad U1-10(8875mil,11397.836mil)  Top Layer
+   Violation between Via (9150.59mil,11160mil) Top Layer to Bottom Layer and 
+                     Pad U1-26(9130.906mil,11200.984mil)  Top Layer
+   Violation between Via (9139.276mil,11252mil) Top Layer to Bottom Layer and 
+                     Pad U1-26(9130.906mil,11200.984mil)  Top Layer
+   Violation between Via (9139.276mil,11252mil) Top Layer to Bottom Layer and 
+                     Pad U1-27(9150.59mil,11200.984mil)  Top Layer
+   Violation between Via (9150.59mil,11160mil) Top Layer to Bottom Layer and 
+                     Pad U1-28(9170.276mil,11200.984mil)  Top Layer
+   Violation between Via (9193.646mil,11251mil) Top Layer to Bottom Layer and 
+                     Pad U1-29(9189.96mil,11200.984mil)  Top Layer
+   Violation between Via (9193.646mil,11251mil) Top Layer to Bottom Layer and 
+                     Pad U1-30(9209.646mil,11200.984mil)  Top Layer
+   Violation between Via (9286mil,11393mil) Top Layer to Bottom Layer and 
+                     Pad U1-40(9327.756mil,11417.52mil)  Top Layer
+   Violation between Via (9275.5mil,11532mil) Top Layer to Bottom Layer and 
+                     Pad U1-46(9327.756mil,11535.63mil)  Top Layer
+   Violation between Via (9217mil,11613mil) Top Layer to Bottom Layer and 
+                     Pad U1-52(9189.96mil,11653.74mil)  Top Layer
+   Violation between Via (9154.276mil,11696mil) Top Layer to Bottom Layer and 
+                     Pad U1-53(9170.276mil,11653.74mil)  Top Layer
+   Violation between Via (9154.276mil,11696mil) Top Layer to Bottom Layer and 
+                     Pad U1-55(9130.906mil,11653.74mil)  Top Layer
+   Violation between Via (8998.11mil,11613mil) Top Layer to Bottom Layer and 
+                     Pad U1-63(8973.426mil,11653.74mil)  Top Layer
+   Violation between Via (9302.038mil,11044.038mil) Top Layer to Bottom Layer and 
+                     Pad C6-1(9270mil,11080.472mil)  Top Layer
+   Violation between Via (8970mil,11040mil) Top Layer to Bottom Layer and 
+                     Pad C5-1(8990mil,11080.472mil)  Top Layer
+   Violation between Via (9420mil,11567mil) Top Layer to Bottom Layer and 
+                     Pad C7-2(9390.472mil,11595mil)  Top Layer
+   Violation between Via (9420mil,11567mil) Top Layer to Bottom Layer and 
+                     Pad C7-1(9449.528mil,11595mil)  Top Layer
+   Violation between Via (9420mil,11567mil) Top Layer to Bottom Layer and 
+                     Pad C9-2(9390.472mil,11535mil)  Top Layer
+   Violation between Via (9420mil,11567mil) Top Layer to Bottom Layer and 
+                     Pad C9-1(9449.528mil,11535mil)  Top Layer
+   Violation between Via (8551mil,11484mil) Top Layer to Bottom Layer and 
+                     Pad Y1-1(8485mil,11427.008mil)  Top Layer
+   Violation between Via (9735mil,10212mil) Top Layer to Bottom Layer and 
+                     Pad P9-16(9770mil,10170mil)  Multi-Layer
+   Violation between Via (9342mil,10656mil) Top Layer to Bottom Layer and 
+                     Pad P8-32(9365mil,10609.606mil)  Multi-Layer
+   Violation between Via (9089.598mil,11779.402mil) Top Layer to Bottom Layer and 
+                     Via (9056mil,11776mil) Top Layer to Bottom Layer
+   Violation between Via (9111.22mil,11268mil) Top Layer to Bottom Layer and 
+                     Via (9139.276mil,11252mil) Top Layer to Bottom Layer
+   Violation between Via (10339.914mil,12714.086mil) Top Layer to Bottom Layer and 
+                     Via (10309.776mil,12699.224mil) Top Layer to Bottom Layer
+   Violation between Via (9815mil,11400mil) Top Layer to Bottom Layer and 
+                     Via (9829mil,11369mil) Top Layer to Bottom Layer
+Rule Violations :34
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Text "7" (10495mil,11335mil)  Top Overlay and 
+                     Track (10325mil,11325mil)(10525mil,11325mil)  Top Overlay
+   Violation between Text "8" (10395mil,11335mil)  Top Overlay and 
+                     Track (10325mil,11325mil)(10525mil,11325mil)  Top Overlay
+   Violation between Text "1" (10495mil,10895mil)  Top Overlay and 
+                     Track (10325mil,10925mil)(10525mil,10925mil)  Top Overlay
+   Violation between Text "2" (10395mil,10875mil)  Top Overlay and 
+                     Track (10325mil,10925mil)(10525mil,10925mil)  Top Overlay
+   Violation between Text "2" (9355mil,12580mil)  Top Overlay and 
+                     Track (9305mil,12510mil)(9305mil,12710mil)  Top Overlay
+   Violation between Text "20" (8295mil,12580mil)  Top Overlay and 
+                     Track (8305mil,12510mil)(8305mil,12710mil)  Top Overlay
+   Violation between Text "19" (8295mil,12680mil)  Top Overlay and 
+                     Track (8305mil,12510mil)(8305mil,12710mil)  Top Overlay
+   Violation between Text "31" (8910mil,10050mil)  Bottom Overlay and 
+                     Track (8920mil,10020mil)(8920mil,10220mil)  Bottom Overlay
+   Violation between Text "32" (8910mil,10150mil)  Bottom Overlay and 
+                     Track (8920mil,10020mil)(8920mil,10220mil)  Bottom Overlay
+   Violation between Text "2" (10570mil,10150mil)  Bottom Overlay and 
+                     Track (10520mil,10020mil)(10520mil,10220mil)  Bottom Overlay
+   Violation between Text "C3" (8780mil,11770mil)  Top Overlay and 
+                     Text "C2" (8705mil,11770mil)  Top Overlay
+   Violation between Text "C21" (10240mil,12700mil)  Top Overlay and 
+                     Text "C19" (10235mil,12780mil)  Top Overlay
+   Violation between Text "C22" (9420mil,12595mil)  Top Overlay and 
+                     Text "C20" (9420mil,12515mil)  Top Overlay
+Rule Violations :13
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 46
-Time Elapsed        : 00:00:01
+Violations Detected : 47
+Time Elapsed        : 00:00:03
