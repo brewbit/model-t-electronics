@@ -1,64 +1,68 @@
 Protel Design System Design Rule Check
 PCB File : C:\dev\BrewBit-ee\BrewBitTC\BrewBitTC.PcbDoc
-Date     : 3/6/2013
-Time     : 12:54:04 AM
+Date     : 3/8/2013
+Time     : 1:00:45 AM
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
-   Violation between Track (8650.197mil,12966.811mil)(8650.197mil,13553.425mil)  Top Overlay and 
-                     Pad P5-(8741.142mil,13381.772mil)  Multi-Layer
-   Violation between Track (9142.323mil,12966.811mil)(9142.323mil,13553.425mil)  Top Overlay and 
-                     Pad P5-(9051.378mil,13381.772mil)  Multi-Layer
-   Violation between Track (10498.031mil,12381.89mil)(10498.031mil,12940.945mil)  Top Overlay and 
-                     Pad P6-(10490.551mil,12894.134mil)  Multi-Layer
-   Violation between Track (8262.205mil,12938.425mil)(10537.795mil,12938.425mil)  Bottom Overlay and 
-                     Pad P6-(10490.551mil,12894.134mil)  Multi-Layer
-   Violation between Track (8262.205mil,12938.425mil)(10537.795mil,12938.425mil)  Bottom Overlay and 
-                     Pad P6-(8309.449mil,12894.134mil)  Multi-Layer
-   Violation between Track (9681.457mil,12966.811mil)(9681.457mil,13553.425mil)  Top Overlay and 
-                     Pad P4-(9772.402mil,13381.772mil)  Multi-Layer
-   Violation between Track (10173.583mil,12966.811mil)(10173.583mil,13553.425mil)  Top Overlay and 
-                     Pad P4-(10082.638mil,13381.772mil)  Multi-Layer
+Processing Rule : Silkscreen Over Component Pads (Clearance=0.254mm) (All),(All)
+   Violation between Track (1231.815mm,796.332mm)(1231.815mm,811.232mm)  Top Overlay and 
+                     Pad P5-(1234.125mm,806.872mm)  Multi-Layer
+   Violation between Track (1244.315mm,796.332mm)(1244.315mm,811.232mm)  Top Overlay and 
+                     Pad P5-(1242.005mm,806.872mm)  Multi-Layer
+   Violation between Track (1278.75mm,781.475mm)(1278.75mm,795.675mm)  Top Overlay and 
+                     Pad P6-(1278.56mm,794.486mm)  Multi-Layer
+   Violation between Track (1221.96mm,795.611mm)(1279.76mm,795.611mm)  Bottom Overlay and 
+                     Pad P6-(1278.56mm,794.486mm)  Multi-Layer
+   Violation between Track (1221.96mm,795.611mm)(1279.76mm,795.611mm)  Bottom Overlay and 
+                     Pad P6-(1223.16mm,794.486mm)  Multi-Layer
+   Violation between Track (1258.009mm,796.332mm)(1258.009mm,811.232mm)  Top Overlay and 
+                     Pad P4-(1260.319mm,806.872mm)  Multi-Layer
+   Violation between Track (1270.509mm,796.332mm)(1270.509mm,811.232mm)  Top Overlay and 
+                     Pad P4-(1268.199mm,806.872mm)  Multi-Layer
 Rule Violations :7
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Via (9951.18mil,11280mil) Top Layer to Bottom Layer and 
-                     Pad P6-5(9951.18mil,11215.001mil)  Bottom Layer
-   Violation between Via (9873.031mil,11280mil) Top Layer to Bottom Layer and 
-                     Pad P6-7(9872.44mil,11215.001mil)  Bottom Layer
-   Violation between Via (9793.7mil,11280mil) Top Layer to Bottom Layer and 
-                     Pad P6-9(9793.7mil,11215.001mil)  Bottom Layer
-   Violation between Via (8606.299mil,12111.22mil) Top Layer to Bottom Layer and 
-                     Via (8572.835mil,12094.488mil) Top Layer to Bottom Layer
-   Violation between Via (8638.78mil,12128.937mil) Top Layer to Bottom Layer and 
-                     Via (8606.299mil,12111.22mil) Top Layer to Bottom Layer
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Via (1264.86mm,753.487mm) Top Layer to Bottom Layer and 
+                     Pad P6-5(1264.86mm,751.836mm)  Bottom Layer
+   Violation between Via (1262.875mm,753.487mm) Top Layer to Bottom Layer and 
+                     Pad P6-7(1262.86mm,751.836mm)  Bottom Layer
+   Violation between Via (1260.86mm,753.487mm) Top Layer to Bottom Layer and 
+                     Pad P6-9(1260.86mm,751.836mm)  Bottom Layer
+   Violation between Via (1230.7mm,774.6mm) Top Layer to Bottom Layer and 
+                     Via (1229.85mm,774.175mm) Top Layer to Bottom Layer
+   Violation between Via (1231.525mm,775.05mm) Top Layer to Bottom Layer and 
+                     Via (1230.7mm,774.6mm) Top Layer to Bottom Layer
 Rule Violations :5
 
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
-   Violation between Hole Size Constraint (135.827mil > 100mil) : Pad P5-(8741.142mil,13381.772mil)  Multi-Layer
-   Violation between Hole Size Constraint (135.827mil > 100mil) : Pad P5-(9051.378mil,13381.772mil)  Multi-Layer
-   Violation between Hole Size Constraint (135.827mil > 100mil) : Pad P4-(9772.402mil,13381.772mil)  Multi-Layer
-   Violation between Hole Size Constraint (135.827mil > 100mil) : Pad P4-(10082.638mil,13381.772mil)  Multi-Layer
-Rule Violations :4
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint (3.175mm > 2.54mm) : Pad Free-(1222.675mm,708.5mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.175mm > 2.54mm) : Pad Free-(1283.575mm,708.5mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.175mm > 2.54mm) : Pad Free-(1283.575mm,803.15mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.175mm > 2.54mm) : Pad Free-(1222.675mm,803.15mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.45mm > 2.54mm) : Pad P5-(1234.125mm,806.872mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.45mm > 2.54mm) : Pad P5-(1242.005mm,806.872mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.45mm > 2.54mm) : Pad P4-(1260.319mm,806.872mm)  Multi-Layer
+   Violation between Hole Size Constraint (3.45mm > 2.54mm) : Pad P4-(1268.199mm,806.872mm)  Multi-Layer
+Rule Violations :8
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=8mil) (Max=50mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=0.203mm) (Max=1.27mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.178mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
@@ -68,5 +72,5 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 
-Violations Detected : 16
-Time Elapsed        : 00:00:01
+Violations Detected : 20
+Time Elapsed        : 00:00:02
