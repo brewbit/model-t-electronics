@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: BrewBitTC.PcbDoc   3/12/2013  12:13:56 AM
+NCDrill File Report For: BrewBitTC.PcbDoc   3/12/2013  12:26:49 AM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,16 +7,14 @@ ASCII RoundHoles File : BrewBitTC.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        10mil (0.254mm)          Round          146              29.39 Inch (746.40 mm)
-T2        14mil (0.3556mm)         Round          92               34.29 Inch (870.93 mm)
-T3        20mil (0.508mm)          Round          1                0.00 Inch (0.00 mm)
-T4        33.46mil (0.84988mm)     Round          4                0.24 Inch (6.00 mm)
-T5        39.37mil (1mm)           Round          20               1.90 Inch (48.26 mm)
-T6        47.24mil (1.1999mm)      Round          6                1.23 Inch (31.27 mm)
-T7        51.18mil (1.29997mm)     Round          3                5.21 Inch (132.40 mm)
-T8        125mil (3.175mm)         Round          4                8.52 Inch (216.45 mm)
-T9        135.83mil (3.45008mm)    Round          4                1.34 Inch (34.07 mm)
+T1        10mil (0.254mm)          Round          238              51.11 Inch (1298.18 mm)
+T2        20mil (0.508mm)          Round          1                0.00 Inch (0.00 mm)
+T3        33.46mil (0.84988mm)     Round          4                0.24 Inch (6.00 mm)
+T4        39.37mil (1mm)           Round          20               1.90 Inch (48.26 mm)
+T5        47.24mil (1.1999mm)      Round          6                1.23 Inch (31.27 mm)
+T6        51.18mil (1.29997mm)     Round          3                5.21 Inch (132.40 mm)
+T7        135.83mil (3.45008mm)    Round          8                8.56 Inch (217.48 mm)
 ---------------------------------------------------------------------------
-Totals                                            280              82.12 Inch (2085.79 mm)
+Totals                                            280              68.25 Inch (1733.60 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:01
