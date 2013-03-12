@@ -1,9 +1,10 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [BrewBitTC.PrjPCB]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [BrewBitTC.PcbDoc]
+   Generated File[Pick Place for BrewBitTC.txt]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:22:38 PM On 3/11/2013
+Finished Output Generation At 12:04:56 AM On 3/12/2013
