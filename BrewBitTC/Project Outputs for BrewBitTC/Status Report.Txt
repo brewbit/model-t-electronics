@@ -7,4 +7,4 @@ From  : Variant [[No Variations]] of PCB Document [BrewBitTC.PcbDoc]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:48:12 PM On 3/12/2013
+Finished Output Generation At 12:11:12 AM On 3/13/2013
