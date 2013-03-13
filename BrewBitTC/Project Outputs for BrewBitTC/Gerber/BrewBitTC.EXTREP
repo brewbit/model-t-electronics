@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: BrewBitTC.GBR   3/12/2013  10:15:50 PM
+Gerber File Extension Report For: BrewBitTC.GBR   3/12/2013  10:48:07 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -17,7 +17,5 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
-.GM13               Mechanical 13                           
-.GM15               Mechanical 15                           
 .GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------
