@@ -2,7 +2,7 @@
 Version=1.0
 
 [OutputGroup1]
-Name=BrewBitTC.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -103,8 +103,8 @@ AddToProject2=0
 TimestampFolder2=0
 UseOutputName2=0
 OpenODBOutput2=0
-OpenGerberOutput2=0
-OpenNCDrillOutput2=0
+OpenGerberOutput2=1
+OpenNCDrillOutput2=1
 OpenIPCOutput2=0
-EnableReload2=0
+EnableReload2=1
 
