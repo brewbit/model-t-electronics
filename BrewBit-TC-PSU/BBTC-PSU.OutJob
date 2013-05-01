@@ -76,7 +76,7 @@ OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=1
 OutputDefault6=0
 Configuration6_Name1=OutputConfigurationParameter1
-Configuration6_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration6_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes
 
 [PublishSettings]
 OutputFilePath1=
@@ -84,7 +84,7 @@ ReleaseManaged1=1
 OutputBasePath1=
 OutputPathMedia1=
 OutputPathOutputer1=[Output Type]
-OutputFileName1=
+OutputFileName1=BBTC-PSU.PDF
 OpenOutput1=1
 PromptOverwrite1=1
 PublishMethod1=0
@@ -96,7 +96,7 @@ MarkPins1=1
 MarkNetLabels1=1
 MarkPortsId1=1
 GenerateTOC=1
-OutputFilePath2=Project Outputs for BBTC-PSU\
+OutputFilePath2=C:\dev\ee\BrewBit-TC-PSU\Project Outputs for BBTC-PSU\
 ReleaseManaged2=0
 OutputBasePath2=Project Outputs for BBTC-PSU\
 OutputPathMedia2=
@@ -107,7 +107,7 @@ OpenOutput2=0
 [GeneratedFilesSettings]
 RelativeOutputPath1=
 OpenOutputs1=1
-RelativeOutputPath2=Project Outputs for BBTC-PSU\
+RelativeOutputPath2=C:\dev\ee\BrewBit-TC-PSU\Project Outputs for BBTC-PSU\
 OpenOutputs2=0
 AddToProject2=0
 TimestampFolder2=0
