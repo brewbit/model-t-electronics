@@ -32,22 +32,6 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 
 [Document1]
-DocumentPath=1wire-Thermocouple.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document2]
 DocumentPath=..\BrewBit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -63,7 +47,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document3]
+[Document2]
 DocumentPath=..\BrewBit.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -79,8 +63,24 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document3]
+DocumentPath=LCD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [Document4]
-DocumentPath=1wire-Thermocouple.PcbDoc
+DocumentPath=MAIN.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -95,9 +95,53 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 1wire-Thermocouple\Design Rule Check - 1wire-Thermocouple.html
+[Document5]
+DocumentPath=MAIN.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document6]
+DocumentPath=MAIN.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document7]
+DocumentPath=WIFI.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 
 [PCBConfiguration1]
 ReleaseItemId=
@@ -109,7 +153,7 @@ GenerateBOM=0
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -230,7 +274,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -251,7 +295,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -317,7 +361,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -339,7 +383,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -395,14 +439,24 @@ OutputDefault9=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=Epilog Engraver WinX64
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+Configuration1_Name1=Filter
+Configuration1_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name2=General
+Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=0|FormWidth=1439|FormHeight=852|SupplierProdQty=1000|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name3=GroupOrder
+Configuration1_Item3=Supplier Part Number 1=True
+Configuration1_Name4=SortOrder
+Configuration1_Item4=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name5=VisibleOrder
+Configuration1_Item5=Quantity=83|Supplier Part Number 1=179|Description=270
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -423,6 +477,8 @@ OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType6=SinglePinNetReporter
 OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
@@ -432,7 +488,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -612,7 +668,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -641,7 +697,7 @@ OutputDefault4=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=CutePDF Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=ExportSTEP
 OutputName1=Export STEP
@@ -685,7 +741,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1
@@ -926,10 +982,13 @@ SelectedOnly=0
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 

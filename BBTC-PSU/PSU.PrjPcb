@@ -32,22 +32,6 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 
 [Document1]
-DocumentPath=BBTC-PSU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document2]
 DocumentPath=..\BrewBit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -63,7 +47,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document3]
+[Document2]
 DocumentPath=..\BrewBit.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -79,8 +63,24 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document3]
+DocumentPath=PSU.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [Document4]
-DocumentPath=BBTC-PSU.OutJob
+DocumentPath=PSU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -96,7 +96,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=BBTC-PSU.PcbDoc
+DocumentPath=PSU.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
