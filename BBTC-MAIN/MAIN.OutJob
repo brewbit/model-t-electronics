@@ -8,7 +8,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=CutePDF Writer
+TargetPrinter=Epilog Engraver WinX64
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputMedium1=PDF
 OutputMedium1_Type=Publish
@@ -27,7 +27,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType2=PCB Print
 OutputName2=PCB Prints
 OutputCategory2=Documentation
-OutputDocumentPath2=BrewBitTC.PcbDoc
+OutputDocumentPath2=
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=1
@@ -37,7 +37,7 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType3=Pick Place
 OutputName3=Generates pick and place files
 OutputCategory3=Assembly
-OutputDocumentPath3=BrewBitTC.PcbDoc
+OutputDocumentPath3=
 OutputVariantName3=
 OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
@@ -48,7 +48,7 @@ Configuration3_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False
 OutputType4=Gerber
 OutputName4=Gerber Files
 OutputCategory4=Fabrication
-OutputDocumentPath4=BrewBitTC.PcbDoc
+OutputDocumentPath4=
 OutputVariantName4=
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
@@ -59,7 +59,7 @@ Configuration4_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TL
 OutputType5=NC Drill
 OutputName5=NC Drill Files
 OutputCategory5=Fabrication
-OutputDocumentPath5=BrewBitTC.PcbDoc
+OutputDocumentPath5=
 OutputVariantName5=
 OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
@@ -71,7 +71,7 @@ Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 [PublishSettings]
 OutputFilePath1=
 ReleaseManaged1=1
-OutputBasePath1=Project Outputs for BrewBitTC
+OutputBasePath1=
 OutputPathMedia1=
 OutputPathOutputer1=[Output Type]
 OutputFileName1=BrewBitTC.PDF
@@ -86,9 +86,9 @@ MarkPins1=1
 MarkNetLabels1=1
 MarkPortsId1=1
 GenerateTOC=1
-OutputFilePath2=C:\dev\BrewBit-ee\BrewBitTC\Project Outputs for BrewBitTC\
+OutputFilePath2=C:\dev\ee\BBTC-MAIN\Project Outputs for MAIN\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for BrewBitTC
+OutputBasePath2=Project Outputs for MAIN
 OutputPathMedia2=
 OutputPathOutputer2=[Output Type]
 OutputFileName2=
@@ -97,7 +97,7 @@ OpenOutput2=0
 [GeneratedFilesSettings]
 RelativeOutputPath1=
 OpenOutputs1=1
-RelativeOutputPath2=C:\dev\BrewBit-ee\BrewBitTC\Project Outputs for BrewBitTC\
+RelativeOutputPath2=C:\dev\ee\BBTC-MAIN\Project Outputs for MAIN\
 OpenOutputs2=0
 AddToProject2=0
 TimestampFolder2=0

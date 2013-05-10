@@ -2,7 +2,7 @@
 Version=1.0
 
 [OutputGroup1]
-Name=BBTC-PSU.OutJob
+Name=PSU.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -17,7 +17,7 @@ OutputMedium2_Type=GeneratedFiles
 OutputType1=Assembly
 OutputName1=Assembly Drawings
 OutputCategory1=Assembly
-OutputDocumentPath1=BBTC-PSU.PcbDoc
+OutputDocumentPath1=
 OutputVariantName1=
 OutputEnabled1=0
 OutputEnabled1_OutputMedium1=1
@@ -27,7 +27,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputCategory2=Assembly
-OutputDocumentPath2=BBTC-PSU.PcbDoc
+OutputDocumentPath2=
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
@@ -38,7 +38,7 @@ Configuration2_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False
 OutputType3=Composite
 OutputName3=Composite Drawing
 OutputCategory3=Documentation
-OutputDocumentPath3=BBTC-PSU.PcbDoc
+OutputDocumentPath3=
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=3
@@ -48,7 +48,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType4=PCB Print
 OutputName4=PCB Prints
 OutputCategory4=Documentation
-OutputDocumentPath4=BBTC-PSU.PcbDoc
+OutputDocumentPath4=
 OutputVariantName4=
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=2
@@ -58,7 +58,7 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType5=Gerber
 OutputName5=Gerber Files
 OutputCategory5=Fabrication
-OutputDocumentPath5=BBTC-PSU.PcbDoc
+OutputDocumentPath5=
 OutputVariantName5=
 OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
@@ -69,7 +69,7 @@ Configuration5_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TL
 OutputType6=NC Drill
 OutputName6=NC Drill Files
 OutputCategory6=Fabrication
-OutputDocumentPath6=BBTC-PSU.PcbDoc
+OutputDocumentPath6=
 OutputVariantName6=
 OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
@@ -96,7 +96,7 @@ MarkPins1=1
 MarkNetLabels1=1
 MarkPortsId1=1
 GenerateTOC=1
-OutputFilePath2=C:\dev\ee\BrewBit-TC-PSU\Project Outputs for BBTC-PSU\
+OutputFilePath2=C:\dev\ee\BBTC-PSU\Project Outputs for BBTC-PSU\
 ReleaseManaged2=0
 OutputBasePath2=Project Outputs for BBTC-PSU\
 OutputPathMedia2=
@@ -107,7 +107,7 @@ OpenOutput2=0
 [GeneratedFilesSettings]
 RelativeOutputPath1=
 OpenOutputs1=1
-RelativeOutputPath2=C:\dev\ee\BrewBit-TC-PSU\Project Outputs for BBTC-PSU\
+RelativeOutputPath2=C:\dev\ee\BBTC-PSU\Project Outputs for BBTC-PSU\
 OpenOutputs2=0
 AddToProject2=0
 TimestampFolder2=0
