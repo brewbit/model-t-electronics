@@ -505,11 +505,11 @@ Configuration4_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416
 Configuration4_Name2=General
 Configuration4_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=0|FormWidth=1439|FormHeight=852|SupplierProdQty=1000|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration4_Name3=GroupOrder
-Configuration4_Item3=Manufacturer Part Number 1=True|Supplier Part Number 1=True
+Configuration4_Item3=Supplier Part Number 1=True
 Configuration4_Name4=SortOrder
 Configuration4_Item4=Designator=Up|Comment=Up|Footprint=Up
 Configuration4_Name5=VisibleOrder
-Configuration4_Item5=Description=270|Designator=100|Footprint=100|Manufacturer 1=100|Manufacturer Part Number 1=100|Quantity=83|Supplier 1=100|Supplier Part Number 1=162
+Configuration4_Item5=Description=364|Designator=229|Footprint=96|Manufacturer 1=96|Quantity=80|Supplier 1=96|Supplier Part Number 1=161
 OutputType5=ComponentCrossReference
 OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
