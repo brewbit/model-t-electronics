@@ -3,10 +3,10 @@ Version=1.0
 [Project1]
 ProjectPath=BBTC\BBTC.PrjPcb
 [Project2]
-ProjectPath=BBTC-MAIN\MAIN.PrjPcb
-[Project3]
-ProjectPath=BBTC-PSU\PSU.PrjPcb
-[Project4]
 ProjectPath=BBTC-WIRING\WIRING.PrjPcb
-[Project5]
+[Project3]
 ProjectPath=BBTC-TC-ADAPT\TC-ADAPT.PrjPCB
+[Project4]
+ProjectPath=BBTC-MAIN\MAIN.PrjPcb
+[Project5]
+ProjectPath=BBTC-PSU\PSU.PrjPcb
