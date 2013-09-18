@@ -5,8 +5,8 @@ ProjectPath=BBTC\BBTC.PrjPcb
 [Project2]
 ProjectPath=BBTC-WIRING\WIRING.PrjPcb
 [Project3]
-ProjectPath=BBTC-MAIN\MAIN.PrjPcb
-[Project4]
 ProjectPath=BBTC-PSU\PSU.PrjPcb
-[Project5]
+[Project4]
 ProjectPath=BBTC-TC-ADAPT\TC-ADAPT.PrjPCB
+[Project5]
+ProjectPath=BBTC-MAIN\MAIN.PrjPcb
