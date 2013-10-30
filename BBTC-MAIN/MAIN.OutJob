@@ -2,7 +2,7 @@
 Version=1.0
 
 [OutputGroup1]
-Name=MAIN.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=Production
@@ -122,7 +122,7 @@ Configuration6_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Ful
 OutputType7=Assembly
 OutputName7=Assembly Drawings
 OutputCategory7=Assembly
-OutputDocumentPath7=C:\dev\ee\BBTC-MAIN\MAIN.PcbDoc
+OutputDocumentPath7=
 OutputVariantName7=
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=1
