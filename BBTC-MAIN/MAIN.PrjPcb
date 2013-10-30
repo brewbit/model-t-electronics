@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
-OutputPath=Project Outputs for MAIN
+OutputPath=
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -155,10 +155,6 @@ Variation4=Designator=P4|UniqueId=\ORRFAMOD|Kind=1|AlternatePart=
 Variation5=Designator=P5|UniqueId=\JBVPETSM|Kind=1|AlternatePart= 
 Variation6=Designator=P6|UniqueId=\JNATVJGA|Kind=1|AlternatePart= 
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for MAIN\Design Rule Check - MAIN.html
-DItemRevisionGUID=
 
 [PCBConfiguration1]
 ReleaseItemId=
